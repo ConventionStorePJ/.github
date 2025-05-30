@@ -26,6 +26,6 @@
 
 ## 👥 팀원 소개
 
-| [![홍한희](https://github.com/namjin1231.png?size=100)](https://github.com/namjin1231) | [![김철수](https://github.com/chulsoo.png?size=100)](https://github.com/chulsoo) | [![이영희](https://github.com/younghee.png?size=100)](https://github.com/younghee) |
+| [![김찬우](https://github.com/moozeh.png?size=60)](https://github.com/moozeh) <br/>**김찬우** <br/>백엔드 | [![남형진](https://github.com/namjin1231.png?size=60)](https://github.com/namjin1231) <br/>**남형진** <br/>프론트엔드 | [![양준식](https://github.com/yangjunsik.png?size=60)](https://github.com/yangjunsik) <br/>**양준식** <br/>프론트엔드 | [![홍한희](https://github.com/zezeworld.png?size=60)](https://github.com/zezeworld) <br/>**홍한희** <br/>UI/UX 디자인 |
 |:--:|:--:|:--:|:--:|
-| **홍한희**<br/>프론트엔드 개발<br/>[@namjin1231](https://github.com/namjin1231) | **김철수**<br/>백엔드 개발<br/>[@chulsoo](https://github.com/chulsoo) | **이영희**<br/>DevOps/인프라<br/>[@younghee](https://github.com/younghee) |
+| [@moozeh](https://github.com/moozeh) | [@namjin1231](https://github.com/namjin1231) | [@yangjunsik](https://github.com/yangjunsik) | [@zezeworld](https://github.com/zezeworld) |
