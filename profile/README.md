@@ -24,7 +24,8 @@
 | **DevOps**     | Docker, GitHub Actions, AWS EC2       |
 | **CI/CD**      | GitHub Actions, Docker Hub            |
 
----
+## 👥 팀원 소개
 
-## 📁 폴더 구조
-
+| [![홍한희](https://github.com/namjin1231.png?size=100)](https://github.com/namjin1231) | [![김철수](https://github.com/chulsoo.png?size=100)](https://github.com/chulsoo) | [![이영희](https://github.com/younghee.png?size=100)](https://github.com/younghee) |
+|:--:|:--:|:--:|:--:|
+| **홍한희**<br/>프론트엔드 개발<br/>[@namjin1231](https://github.com/namjin1231) | **김철수**<br/>백엔드 개발<br/>[@chulsoo](https://github.com/chulsoo) | **이영희**<br/>DevOps/인프라<br/>[@younghee](https://github.com/younghee) |
