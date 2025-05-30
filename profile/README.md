@@ -26,6 +26,36 @@
 
 ## 👥 팀원 소개
 
-| [![김찬우](https://github.com/moozeh.png?size=60)](https://github.com/moozeh) <br/>**김찬우** <br/>백엔드 | [![남형진](https://github.com/namjin1231.png?size=60)](https://github.com/namjin1231) <br/>**남형진** <br/>프론트엔드 | [![양준식](https://github.com/yangjunsik.png?size=60)](https://github.com/yangjunsik) <br/>**양준식** <br/>프론트엔드 | [![홍한희](https://github.com/zezeworld.png?size=60)](https://github.com/zezeworld) <br/>**홍한희** <br/>UI/UX 디자인 |
-|:--:|:--:|:--:|:--:|
-| [@moozeh](https://github.com/moozeh) | [@namjin1231](https://github.com/namjin1231) | [@yangjunsik](https://github.com/yangjunsik) | [@zezeworld](https://github.com/zezeworld) |
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/moozeh">
+        <img src="https://github.com/moozeh.png?size=80" width="60"/><br/>
+        <sub><b>김찬우</b></sub><br/>
+        백엔드
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/namjin1231">
+        <img src="https://github.com/namjin1231.png?size=80" width="60"/><br/>
+        <sub><b>남형진</b></sub><br/>
+        프론트엔드
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yangjunsik">
+        <img src="https://github.com/yangjunsik.png?size=80" width="60"/><br/>
+        <sub><b>양준식</b></sub><br/>
+        프론트엔드
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zezeworld">
+        <img src="https://github.com/zezeworld.png?size=80" width="60"/><br/>
+        <sub><b>홍한희</b></sub><br/>
+        UI/UX 디자인
+      </a>
+    </td>
+  </tr>
+</table>
+
