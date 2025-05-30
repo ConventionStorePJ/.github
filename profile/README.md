@@ -1,6 +1,6 @@
 
 
-<img width="511" alt="ONO" src="https://github.com/user-attachments/assets/037e10b9-1c8d-4793-943b-d7c8c7c54b2e" />
+<img width="600" alt="ONO" src="https://github.com/user-attachments/assets/037e10b9-1c8d-4793-943b-d7c8c7c54b2e" />
 
 # 🛍️ ONO: 편의점 할인 큐레이션 플랫폼
 
