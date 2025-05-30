@@ -17,21 +17,45 @@
 
 ## 🧰 Tech Stack
 
-프로젝트에서 사용한 기술 스택입니다. 프론트엔드부터 백엔드, 배포 환경까지 아래와 같은 기술을 활용했습니다.
+프로젝트에서 사용한 기술 스택입니다. 프론트엔드, 백엔드, 배포 환경, 디자인까지 아래와 같은 기술들을 활용했습니다.
 
-| 💻 Frontend | ⚙️ Backend | ☁️ DevOps | 🚀 CI/CD |
-|------------|------------|----------|----------|
-| ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge) <br> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge) <br> ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge) <br> ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge) | ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge) <br> ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge) <br> ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge) <br> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) <br> ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge) <br> ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge) <br> ![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?logo=docker&logoColor=white&style=for-the-badge) |
+---
 
-## 🎨 Design / UI·UX
+### 💻 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge"/>
+</p>
 
-프로젝트의 디자인 작업은 아래 도구들을 활용하여 UI 설계 및 프로토타이핑을 진행했습니다.
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
+</p>
 
-| 디자인 도구 |
-|-------------|
-| ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge) 
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge) 
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=for-the-badge) |
+### ☁️ DevOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge"/>
+</p>
+
+### 🚀 CI/CD
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker_Hub-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
+</p>
+
+### 🎨 Design / UI·UX
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=for-the-badge"/>
+</p>
 
 
 ## 👥 팀원 소개
