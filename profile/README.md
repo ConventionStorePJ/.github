@@ -30,30 +30,34 @@
   <tr>
     <td align="center">
       <a href="https://github.com/moozeh">
-        <img src="https://github.com/moozeh.png?size=100" width="80"/><br/>
+        <img src="https://github.com/moozeh.png?size=120" width="100"/><br/>
         <sub><b>김찬우</b></sub><br/>
-        백엔드
+        WEB BE<br/>
+        <a href="https://github.com/moozeh">@moozeh</a>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/namjin1231">
-        <img src="https://github.com/namjin1231.png?size=100" width="80"/><br/>
-        <sub><b>남형진</b></sub><br/>
-        프론트엔드
+        <img src="https://github.com/namjin1231.png?size=120" width="100"/><br/>
+        <sub><b>서정우</b></sub><br/>
+        WEB FE<br/>
+        <a href="https://github.com/namjin1231">@namjin1231</a>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/yangjunsik">
-        <img src="https://github.com/yangjunsik.png?size=100" width="80"/><br/>
-        <sub><b>양준식</b></sub><br/>
-        프론트엔드
+        <img src="https://github.com/yangjunsik.png?size=120" width="100"/><br/>
+        <sub><b>송수민</b></sub><br/>
+        WEB BE<br/>
+        <a href="https://github.com/yangjunsik">@yangjunsik</a>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/zezeworld">
-        <img src="https://github.com/zezeworld.png?size=100" width="80"/><br/>
-        <sub><b>홍한희</b></sub><br/>
-        UI/UX 디자인
+        <img src="https://github.com/zezeworld.png?size=120" width="100"/><br/>
+        <sub><b>이승윤</b></sub><br/>
+        WEB FE<br/>
+        <a href="https://github.com/zezeworld">@zezeworld</a>
       </a>
     </td>
   </tr>
