@@ -30,32 +30,31 @@
   <tr>
     <td align="center">
       <a href="https://github.com/moozeh">
-        <img src="https://github.com/moozeh.png?size=80" width="60"/><br/>
+        <img src="https://github.com/moozeh.png?size=100" width="80"/><br/>
         <sub><b>김찬우</b></sub><br/>
         백엔드
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/namjin1231">
-        <img src="https://github.com/namjin1231.png?size=80" width="60"/><br/>
+        <img src="https://github.com/namjin1231.png?size=100" width="80"/><br/>
         <sub><b>남형진</b></sub><br/>
         프론트엔드
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/yangjunsik">
-        <img src="https://github.com/yangjunsik.png?size=80" width="60"/><br/>
+        <img src="https://github.com/yangjunsik.png?size=100" width="80"/><br/>
         <sub><b>양준식</b></sub><br/>
         프론트엔드
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/zezeworld">
-        <img src="https://github.com/zezeworld.png?size=80" width="60"/><br/>
+        <img src="https://github.com/zezeworld.png?size=100" width="80"/><br/>
         <sub><b>홍한희</b></sub><br/>
         UI/UX 디자인
       </a>
     </td>
   </tr>
 </table>
-
