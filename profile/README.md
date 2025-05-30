@@ -1,3 +1,7 @@
+
+
+<img width="511" alt="ONO" src="https://github.com/user-attachments/assets/037e10b9-1c8d-4793-943b-d7c8c7c54b2e" />
+
 # 🛍️ ONO: 편의점 할인 큐레이션 플랫폼
 
 **ONO**는 내 주변 편의점에서 지금 가장 이득인 상품을 빠르게 찾을 수 있는, 목적 기반 큐레이션 할인 플랫폼입니다.  
