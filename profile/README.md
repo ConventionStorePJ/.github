@@ -47,7 +47,7 @@
     <td align="center">
       <a href="https://github.com/yangjunsik">
         <img src="https://github.com/yangjunsik.png?size=120" width="100"/><br/>
-        <sub><b>송수민</b></sub><br/>
+        <sub><b>양준식</b></sub><br/>
         WEB BE<br/>
         <a href="https://github.com/yangjunsik">@yangjunsik</a>
       </a>
@@ -55,7 +55,7 @@
     <td align="center">
       <a href="https://github.com/zezeworld">
         <img src="https://github.com/zezeworld.png?size=120" width="100"/><br/>
-        <sub><b>이승윤</b></sub><br/>
+        <sub><b>홍한희</b></sub><br/>
         WEB FE<br/>
         <a href="https://github.com/zezeworld">@zezeworld</a>
       </a>
