@@ -73,7 +73,7 @@
     <td align="center">
       <a href="https://github.com/namjin1231">
         <img src="https://github.com/namjin1231.png?size=120" width="100"/><br/>
-        <sub><b>서정우</b></sub><br/>
+        <sub><b>남형진</b></sub><br/>
         WEB FE<br/>
         <a href="https://github.com/namjin1231">@namjin1231</a>
       </a>
