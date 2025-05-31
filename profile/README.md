@@ -1,4 +1,7 @@
+![image](https://github.com/user-attachments/assets/a498d748-9650-46fd-ac00-ce963acab301)
 
+
+> 🦄 본 프로젝트는 2025년도 상반기 해달 해커톤과 함께 진행된 프로젝트 입니다!
 
 # 🛍️ ONO: 편의점 할인 큐레이션 플랫폼
 
